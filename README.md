@@ -4,9 +4,7 @@
 
 Blogbooks Community様のブックマークレットをロイロWebフィルター用に編集したものです。
 
-引用源：
-
-© BlogBooks Community
+引用源：© BlogBooks Community
 
 https://blogbooks.net/chromebook/2357/
 
