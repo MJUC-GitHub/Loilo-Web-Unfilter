@@ -10,6 +10,6 @@ Blogbooks Community様のブックマークレットをロイロWebフィルタ�
 
 https://blogbooks.net/chromebook/2357/
 
-by[@otnkmk8d](https://github.com/otnkmk8d)
+by [@otnkmk8d](https://github.com/otnkmk8d)
 
 ©2023 MJUC
