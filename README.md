@@ -6,7 +6,7 @@ Blogbooks Community様のブックマークレットをロイロWebフィルタ�
 
 引用源：© BlogBooks Community
 
-https://blogbooks.net/chromebook/2357/
+[[Chromebook] フィルタリング解除 / ChromeOS 全バージョン対応](https://blogbooks.net/chromebook/2357/)
 
 by [@otnkmk8d](https://github.com/otnkmk8d)
 
