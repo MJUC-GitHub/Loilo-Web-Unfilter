@@ -4,7 +4,7 @@
 
 Blogbooks Community様のブックマークレットをロイロWebフィルター用に編集したものです。
 
-引用源：© BlogBooks Community
+引用元：[© BlogBooks Library](https://blogbooks.net/)
 
 [[Chromebook] フィルタリング解除 / ChromeOS 全バージョン対応](https://blogbooks.net/chromebook/2357/)
 
