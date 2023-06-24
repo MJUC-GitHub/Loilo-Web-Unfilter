@@ -1,4 +1,4 @@
-# loilo-unfilter
+# Loilo-Web-Unfilter
 
 ロイロWebフィルターを停止させるブックマークレットです。
 
