@@ -1,5 +1,7 @@
 # Loilo-Web-Unfilter
 
+## 概要
+
 [ロイロWebフィルター](https://chrome.google.com/webstore/detail/pabjlbjcgldndnpjnokjakbdofjgnfia)を停止させるブックマークレットです。
 
 Blogbooks Community様のブックマークレットをロイロWebフィルター用に編集したものです。
@@ -8,7 +10,7 @@ Improved by [@otnkmk8d](https://github.com/otnkmk8d)
 
 © 2023 MJUC
 
-## 引用元：
+## 引用元
 
 [© BlogBooks Library](https://blogbooks.net/)
 
