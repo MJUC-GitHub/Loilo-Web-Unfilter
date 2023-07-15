@@ -6,8 +6,6 @@
 
 Blogbooks Community様のブックマークレットをロイロWebフィルター用に編集したものです。
 
-Improved by [@otnkmk8d](https://github.com/otnkmk8d)
-
 © 2023 MJUC
 
 ## 引用元
